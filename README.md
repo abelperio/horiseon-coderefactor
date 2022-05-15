@@ -7,4 +7,4 @@ I have learned how to properly set up a GitHub repository so that it will correc
 
  https://abelperio.github.io/horiseon-coderefactor/
 
- ![Screenshot](../horiseon-coderefactor/assets/images/deployedscreenshot.png)
+ ![Screenshot](./assets/images/deployedscreenshot.png)
